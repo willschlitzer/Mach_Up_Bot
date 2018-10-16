@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/
+
+# config fles
+Mach_Up_Bot_config.py
+Mach_Up_Bot_reply_data.txt
+Mach_Up_Bot_submissions_replied_to.txt
+Mach_Up_Bot_comments_replied_to.txt
+Mach_Up_Bot_running_info.txt
+Mach_Up_Bot_sublist.txt
